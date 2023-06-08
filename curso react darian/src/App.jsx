@@ -37,7 +37,7 @@ function App() {
           count is {count}
         </button>
         <Button onClick={clickear} size="lg" variant="warning">Darian</Button>
-        <Button variant="warning">Darian</Button>
+        <Button variant="warning">Fernando</Button>
         <Button variant="warning">Darian</Button>
       </div>      
     </div>
